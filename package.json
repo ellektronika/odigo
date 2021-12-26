@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ellektronika.github.io/",
+  "homepage": "https://ellektronika.github.io/test",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d site_folder"
   },
   "keywords": [],
   "author": "",
